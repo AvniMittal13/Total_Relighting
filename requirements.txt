@@ -1,0 +1,9 @@
+typing_extensions==4.4.0
+fastapi==0.87.0
+uvicorn==0.20.0
+streamlit==1.15.1
+opencv-python
+matplotlib
+pandas
+Pillow
+numpy
